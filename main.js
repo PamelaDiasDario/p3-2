@@ -39,7 +39,7 @@ const perguntas = [
                 afirmacao: " atacante / meio campo"
             },
             {
-                texto: "Mara",
+                texto: "Marta",
                 afirmacao: "ponta esquerda / meio campo"
             }
         ]
