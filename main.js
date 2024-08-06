@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "qual o melhor? ",
         alternativas: [
             {
-                texto: "Texto 1.1",
-                afirmacao: "Afirmação 1.1"
+                texto: " CR7 ",
+                afirmacao: "christiano ronaldo"
             },
             {
-                texto: "Texto 1.2",
-                afirmacao: "Afirmação 1.2"
+                texto: " Menino Ney ",
+                afirmacao: " neymar  "
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "qual time deve mais dinheiro ",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: " botafogo",
+                afirmacao: " deve 1,301 bilhão de grana"
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: " corinthians",
+                afirmacao: " deve 1,894 bilhão de grana"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: " qual a melhor jogadora do brasil ",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: " Debinha",
+                afirmacao: " atacante / meio campo"
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Mara",
+                afirmacao: "ponta esquerda / meio campo"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: " qual time o neymar torce",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: " Flamengo ",
+                afirmacao: " o melhor"
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: " palmeiras ",
+                afirmacao: " o melhor "
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: " qual o time que a marta torce",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: " vasco da gama",
+                afirmacao: "T-T"
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: " corinthians ",
+                afirmacao: "T-T"
             }
         ]
     },
