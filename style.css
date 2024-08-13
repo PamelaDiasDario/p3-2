@@ -1,10 +1,10 @@
 :root{ /*cria variáveis*/
 /*para declarar a variável basta digitar a função var() e dentro dos parênteses coloca o nome de variável criada*/
     --cor-fundo: #f800007e;
-    --cor-principal: hsla(19, 100%, 62%, 0.74);
-    --cor-secundaria: #eec200a6;
-    --cor-destaque: #75ffaab6;
-    --cor-texto: #000000c4;
+    --cor-principal: hsla(19, 100%, 62%, 0);
+    --cor-secundaria: #eec20000;
+    --cor-destaque: #000000;
+    --cor-texto: #000000;
 }
 body{ /*estilização no corpo da página*/
     background-color: var(--cor-fundo); /*cor de fundo*/
