@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " CR7 ",
-                afirmacao: " cristiano ronaldo"
+                afirmacao: ""
             },
             {
                 texto: " Menino Ney ",
-                afirmacao: " neymar  "
+                afirmacao: ""
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " botafogo",
-                afirmacao: " deve 1,301 bilhão de grana"
+                afirmacao: ""
             },
             {
                 texto: " corinthians",
-                afirmacao: " deve 1,894 bilhão de grana"
+                afirmacao: ""
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Debinha",
-                afirmacao: " atacante / meio campo"
+                afirmacao: ""
             },
             {
                 texto: "Marta",
-                afirmacao: "ponta esquerda / meio campo"
+                afirmacao: ""
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Flamengo ",
-                afirmacao: " o melhor"
+                afirmacao: ""
             },
             {
                 texto: " palmeiras ",
-                afirmacao: " o melhor "
+                afirmacao: ""
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " vasco da gama",
-                afirmacao: "T-T"
+                afirmacao: ""
             },
             {
                 texto: " corinthians ",
-                afirmacao: "T-T"
+                afirmacao: ""
             }
         ]
     },
