@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Flamengo ",
-                afirmacao: "vai "
+                afirmacao: " "
             },
             {
                 texto: " palmeiras ",
-                afirmacao: "a"
+                afirmacao: "vai a "
             }
         ]
     },
@@ -66,7 +66,7 @@ const perguntas = [
             },
             {
                 texto: " corinthians ",
-                afirmacao: ""
+                afirmacao: " krl"
             }
         ]
     },
