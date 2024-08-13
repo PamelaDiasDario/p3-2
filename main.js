@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " CR7 ",
-                afirmacao: "foda-se"
+                afirmacao: "foda-se "
             },
             {
                 texto: " Menino Ney ",
-                afirmacao: "a"
+                afirmacao: "foda-se"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " botafogo",
-                afirmacao: "sua"
+                afirmacao: "a sua"
             },
             {
                 texto: " corinthians",
-                afirmacao: "opniao"
+                afirmacao: "a sua"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Debinha",
-                afirmacao: "ok"
+                afirmacao: "opniao e vai"
             },
             {
                 texto: "Marta",
-                afirmacao: ""
+                afirmacao: "opniao e vai"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Flamengo ",
-                afirmacao: " "
+                afirmacao: " pra pqp "
             },
             {
                 texto: " palmeiras ",
-                afirmacao: "vai a "
+                afirmacao: "pra pqp "
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " vasco da gama",
-                afirmacao: "pqp"
+                afirmacao: "^3^"
             },
             {
                 texto: " corinthians ",
-                afirmacao: " krl"
+                afirmacao: "^3^"
             }
         ]
     },
